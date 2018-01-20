@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>FonqriLinerButton.qml</file>
+        <file>FonqriTextField.qml</file>
+        <file>FonqriCard.qml</file>
+        <file>FonqriCheckBox.qml</file>
+        <file>FonqriRadioButton.qml</file>
+        <file>FonqriBusyIndicator.qml</file>
+        <file>FonqriProgressBar.qml</file>
+        <file>image/image.jpg</file>
+    </qresource>
+    <qresource prefix="/image"/>
+</RCC>
